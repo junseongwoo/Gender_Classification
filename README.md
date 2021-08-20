@@ -1,2 +1,3 @@
-# Gender_Classification
-Gender classification using TensorFlow
+# 텐서플로우를 이용한 성별 분류 
+
+- 데이터 셋 준비 부터 VGGNet을 이용한 분류까지 
